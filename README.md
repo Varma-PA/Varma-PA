@@ -71,7 +71,7 @@ Book My Show Clone
     (with [link](http://nodejs.org)) which was actually totally
     your idea... -->
 
-Programming Languages
+# Programming Languages
 : **Typescript/Javascript:** 
 
 : **Java:** 
@@ -82,7 +82,7 @@ Programming Languages
 
 [ref]: https://github.com/Varma-PA
 
-Frameworks and Libraries
+# Frameworks and Libraries
 
 : **Backend Frameworks**
 -   Express
