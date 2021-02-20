@@ -36,17 +36,6 @@ BVRIT Narsapur (Affiliated to Jawaharlal Nehru Technological University)
 
     CGPA: 8.1
 
-2013-2015
-: **Board of Intermediate Educatino**,
-Sri Gayatri Vidyalaya - Hyderabad
-
-    Score: 815/1000
-
-2000-2012
-: **Central Board of Secondary Education**,
-Silver Oaks International School
-
-    CGPA: 8.4
 
 ## Experience
 
@@ -83,21 +72,37 @@ Book My Show Clone
     your idea... -->
 
 Programming Languages
-: **Typescript/Javascript:** Used Javascript for React and Angular for the front end of the web applcation. Designed the backend API using the **Express** framework
+: **Typescript/Javascript:** 
 
-: **Java:** Used Java 8 to create backend Spring Boot application which handles REST APIs and takes care of Authentication as well.
+: **Java:** 
 
-: **Python:** Similar to Java Spring boot, used Flask and Django to create the simple application which accepts the Http REST calls and Authentication
+: **Python:** 
 
 : Basic knowledge of **C**, **MATLAB**, **Octave**
 
 [ref]: https://github.com/Varma-PA
 
-## Languages
+Frameworks and Libraries
 
-- Human Languages:
+: **Backend Frameworks**
+-   Express
+-   Spring Boot
+-   Django
 
-  - English
-  - Hindi
-  - Telugu
+: **Frontend Frameworks**
+-   React
+-   Next JS
+-   Angular
+
+: **DevOps**
+-   Github Actions
+-   Docker
+-   Kubernetes
+
+: **Data Science Tools**
+-   Scikit Learn
+-   Numpy
+-   Pandas
+
+
 
