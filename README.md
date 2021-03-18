@@ -27,7 +27,6 @@ India
 
 - 🔭 I’m currently working on Capgemini as a Software Engineer
 
-
 ## Education
 
 2015-2019
@@ -35,7 +34,6 @@ India
 BVRIT Narsapur (Affiliated to Jawaharlal Nehru Technological University)
 
     CGPA: 8.1
-
 
 ## Experience
 
@@ -52,6 +50,25 @@ Worked as a software analyst inn Capgemini India, Hyderabad. Created a full stac
 <!-- **That Other Job You Had**
 
 Also with a short description. -->
+
+## Projects
+
+### Full-Stack Booking Application
+
+- [Application URL]()\
+  [Github Organization Link](https://github.com/ticketing-software)
+
+### Mini Posts and Comments Full stack App
+
+- [Application URL]()\
+  [Github Organization Link](https://github.com/custom-posts-comments-app)
+
+### CSS Projects
+
+1. [Tour website](https://varma-pa.github.io/Advanced-CSS/)\
+   [Github-Repo](https://github.com/Varma-PA/Advanced-CSS)
+
+[GitHub](http://github.com)
 
 ## Technical Experience
 
@@ -72,11 +89,12 @@ Book My Show Clone
     your idea... -->
 
 # Programming Languages
-: **Typescript/Javascript:** 
 
-: **Java:** 
+: **Typescript/Javascript:**
 
-: **Python:** 
+: **Java:**
+
+: **Python:**
 
 : Basic knowledge of **C**, **MATLAB**, **Octave**
 
@@ -85,24 +103,25 @@ Book My Show Clone
 # Frameworks and Libraries
 
 : **Backend Frameworks**
--   Express
--   Spring Boot
--   Django
+
+- Express
+- Spring Boot
+- Django
 
 : **Frontend Frameworks**
--   React
--   Next JS
--   Angular
+
+- React
+- Next JS
+- Angular
 
 : **DevOps**
--   Github Actions
--   Docker
--   Kubernetes
+
+- Github Actions
+- Docker
+- Kubernetes
 
 : **Data Science Tools**
--   Scikit Learn
--   Numpy
--   Pandas
 
-
-
+- Scikit Learn
+- Numpy
+- Pandas
