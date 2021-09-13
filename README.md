@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 
 ---
 
-Kukatpally achyuth.varma1@gmail.com
-Hyderabad 500090 achyuthvarma.com
-India
+From: Hyderabad, India
+
+Email: achyuth.varma1@gmail.com
+
+Website: [achyuthvarma.com](achyuthvarma.com)
+
 
 ---
 
