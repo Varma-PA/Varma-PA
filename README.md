@@ -72,6 +72,10 @@ Also with a short description. -->
 1. [Tour website](https://varma-pa.github.io/Advanced-CSS/)\
    [Github-Repo](https://github.com/Varma-PA/Advanced-CSS)
 
+### Simple Password Generator Application - Angular
+1. [Password Generator Link](https://password-generator-pink-pi.vercel.app/)
+   [Github-Repo](https://github.com/Varma-PA/Simple-Angular-Password-Generator)
+
 [GitHub](http://github.com)
 
 ## Technical Experience
