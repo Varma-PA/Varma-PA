@@ -52,6 +52,36 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
+## Projects
+
+### Full-Stack Booking Application
+
+- [Application URL]()\
+  [Github Organization Link](https://github.com/ticketing-software)
+
+### Mini Posts and Comments Full stack App
+
+- [Application URL]()\
+  [Github Organization Link](https://github.com/custom-posts-comments-app)
+
+### Pizza Ordering BOT using Microsoft BOT and Spring Boot
+
+- [Github Organization Link](https://github.com/Pizza-Bot)
+
+### CSS Projects
+
+1. [Tour website](https://varma-pa.github.io/Advanced-CSS/)\
+   [Github-Repo](https://github.com/Varma-PA/Advanced-CSS)
+
+### Simple Password Generator Application - Angular
+
+1. [Password Generator Link](https://password-generator-pink-pi.vercel.app/)\
+   [Github-Repo](https://github.com/Varma-PA/Simple-Angular-Password-Generator)
+
+[GitHub](http://github.com)
+
+
+
 # Frameworks and Libraries
 
 : **Backend Frameworks**
