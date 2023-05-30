@@ -7,7 +7,7 @@ Full Stack Developer
 Currently pursuing MS in Information Systems (Computer Software Engineering) at Northeastern University, Boston. Worked as a frontend engineer at Capgemini, Hyderabad
 
 * 🌍  Origins: Hyderabad, India
-* 🖥️  See my portfolio at [achyuthvarma.com](http://achyuthvarma.com)
+* 🖥️  See my portfolio at [achyuthvarmap.com](http://achyuthvarmap.com)
 * ✉️  You can contact me at [achyuth.varma1@gmail.com](mailto:achyuth.varma1@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * ⚡  I love spiderman films
