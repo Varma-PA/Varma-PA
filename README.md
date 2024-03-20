@@ -19,7 +19,7 @@
 Currently pursuing MS in Information Systems (Computer Software Engineering) at Northeastern University, Boston. Worked as a frontend engineer at Capgemini, Hyderabad
 
 - 🌍  From: Hyderabad, TS, India
-- 📍 Presently: Boston, MA, US
+- 📍 Present: Boston, MA, US
 - 🖥️  See my portfolio at [achyuthvarmap.com](http://achyuthvarmap.com)
 - ✉️  You can contact me at [achyuth.varma1@gmail.com](mailto:achyuth.varma1@gmail.com)
 
