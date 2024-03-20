@@ -1,16 +1,16 @@
-Hi 👋 My name is Achyuth Varma Penmetcha
-========================================
+<h2> Hi 👋, I'm Achyuth </h2>
+<!-- <img align='right' src="https://media1.tenor.com/m/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif" width="300"  /> -->
 
-Full Stack Developer
---------------------
+<img align='right' src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="300" />
+
+<p><em>Full Stack Developer</p></em>
 
 Currently pursuing MS in Information Systems (Computer Software Engineering) at Northeastern University, Boston. Worked as a frontend engineer at Capgemini, Hyderabad
 
-* 🌍  Origins: Hyderabad, India
-* 🖥️  See my portfolio at [achyuthvarmap.com](http://achyuthvarmap.com)
-* ✉️  You can contact me at [achyuth.varma1@gmail.com](mailto:achyuth.varma1@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
-* ⚡  I love spiderman films
+- 🌍  From: Hyderabad, TS, India
+- 📍 Presently: Boston, MA, US
+- 🖥️  See my portfolio at [achyuthvarmap.com](http://achyuthvarmap.com)
+- ✉️  You can contact me at [achyuth.varma1@gmail.com](mailto:achyuth.varma1@gmail.com)
 
 ### Skills
 
@@ -26,11 +26,10 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> -->
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
@@ -80,29 +79,30 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 
 [GitHub](http://github.com)
 
-
-
 # Frameworks and Libraries
 
-: **Backend Frameworks**
+### Backend
 
 - Express
 - Spring Boot
-- Django
+- Flask
 
-: **Frontend Frameworks**
+### Frontend
 
 - React
 - Next JS
-- Angular
 
-: **DevOps**
+### DevOps
 
 - Github Actions
+- Jenkins
+
+### Containerization
+
 - Docker
 - Kubernetes
 
-: **Data Science Tools**
+### Data Science Tools
 
 - Scikit Learn
 - Numpy
