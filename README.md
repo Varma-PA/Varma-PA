@@ -8,7 +8,9 @@
 
 <!-- <img src = "https://giphy.com/embed/STx3VQPPCgvbzIKlw4" /> -->
 
-<img src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif" alt="drawing" width="1080"/>
+<!-- <img src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif" alt="drawing" width="4600"/> -->
+
+<img src="./gifs/Red_Shirt.gif" alt="drawing" width="4600"/>
 
 <!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/STx3VQPPCgvbzIKlw4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
 
