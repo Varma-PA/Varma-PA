@@ -6,11 +6,16 @@
 
 <!-- <img align='right' src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="300" /> -->
 
-<img src="./gifs/Red_Shirt.gif" alt="drawing" width="4600"/>
+<!-- <img src="./gifs/Red_Shirt.gif" alt="drawing" width="4600"/> -->
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+" alt="drawing" width="4600"/>
 
 <!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/STx3VQPPCgvbzIKlw4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
 
 ## Full-Stack Developer
+
+<img src="./gifs/octocat.png" width='200' align='right' />
 
 Currently pursuing MS in Information Systems (Computer Software Engineering) at Northeastern University, Boston. Worked as a frontend engineer at Capgemini, Hyderabad
 
@@ -20,6 +25,8 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 - ✉️  You can contact me at [achyuth.varma1@gmail.com](mailto:achyuth.varma1@gmail.com)
 
 ### Skills
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" align='right' width='400' /> -->
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -118,3 +125,10 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 - Scikit Learn
 - Numpy
 - Pandas
+
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" align='right' width="100"
+ />
+
+### Thank you very much for visiting my GitHub Profile. Hope you have a great day
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="4000"> -->
