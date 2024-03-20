@@ -141,4 +141,7 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 
 ### Thank you very much for visiting my GitHub Profile. Hope you have a great day
 
+</br>
+</br>
+
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="4000"> -->
