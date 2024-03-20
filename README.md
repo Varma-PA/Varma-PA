@@ -8,8 +8,7 @@
 
 <!-- <img src="./gifs/Red_Shirt.gif" alt="drawing" width="4600"/> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
-" alt="drawing" width="4600"/>
+<img src="./gifs/Mario_Programming.gif" alt="drawing" width="4600"/>
 
 <!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/STx3VQPPCgvbzIKlw4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
 
