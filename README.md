@@ -16,7 +16,7 @@
 
 <img src="./gifs/octocat.png" width='200' align='right' />
 
-Currently pursuing MS in Information Systems (Computer Software Engineering) at Northeastern University, Boston. Worked as a frontend engineer at Capgemini, Hyderabad
+Currently pursuing MS in Information Systems (Computer Software Engineering) at Northeastern University, Boston. Worked as a full-stack engineer at Capgemini, Hyderabad
 
 - 🌍  From: Hyderabad, TS, India
 - 📍 Present: Boston, MA, US
