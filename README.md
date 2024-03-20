@@ -6,10 +6,6 @@
 
 <!-- <img align='right' src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="300" /> -->
 
-<!-- <img src = "https://giphy.com/embed/STx3VQPPCgvbzIKlw4" /> -->
-
-<!-- <img src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif" alt="drawing" width="4600"/> -->
-
 <img src="./gifs/Red_Shirt.gif" alt="drawing" width="4600"/>
 
 <!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/STx3VQPPCgvbzIKlw4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
@@ -46,6 +42,8 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 
 <p align="left"> <a href="https://www.facebook.com/achyuthvarma2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Varma-PA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://https://achyuthvarma.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_achyuth/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/achyuth-varma-penmetcha-795510ba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<!-- <img src="https://media1.tenor.com/m/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif" width="200" /> -->
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -62,7 +60,7 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
 
-<img  src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif" alt="drawing" />
+<!-- <img  src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif" alt="drawing" /> -->
 
 ## Projects
 
@@ -91,6 +89,8 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
    [Github-Repo](https://github.com/Varma-PA/Simple-Angular-Password-Generator)
 
 # Frameworks and Libraries
+
+<img align="right" src="https://media1.tenor.com/m/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif" width="300" />
 
 ### Backend
 
