@@ -77,8 +77,6 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 1. [Password Generator Link](https://password-generator-pink-pi.vercel.app/)\
    [Github-Repo](https://github.com/Varma-PA/Simple-Angular-Password-Generator)
 
-[GitHub](http://github.com)
-
 # Frameworks and Libraries
 
 ### Backend
