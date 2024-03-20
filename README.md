@@ -23,7 +23,7 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 - 🖥️  See my portfolio at [achyuthvarmap.com](http://achyuthvarmap.com)
 - ✉️  You can contact me at [achyuth.varma1@gmail.com](mailto:achyuth.varma1@gmail.com)
 
-### Skills
+## Skills
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" align='right' width='400' /> -->
 
@@ -44,7 +44,14 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+## Professional Certifications
+
+<p align="left">
+<a href="https://www.credly.com/badges/e7e1be5e-56b8-486a-a24f-b430f0ecc19a/linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/AWS_CP.png" width="150"  /></a><a href="https://www.credly.com/badges/73cf3824-c661-4176-8b82-ac234db8785e/linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/AWS_SAA.png" width="150"  /></a><a href="https://www.credly.com/badges/7869c41a-ccd3-45b2-813a-42d8825868b8/linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/AWS_DA.png" width="150"  /></a><a href="https://learn.microsoft.com/en-us/users/achyuthvarma-8003/credentials/494a7e5aa877334e?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noreferrer"><img src="./certifications/Azure_Fundamentals.png" width="150"  /></a><a href="https://www.credly.com/badges/0b6d6317-9a82-46c6-89ed-9fcc7cec69ef?source=linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/Google_UX.png" width="150"  /></a>
+
+</p>
+
+## Socials
 
 <p align="left"> <a href="https://www.facebook.com/achyuthvarma2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Varma-PA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://https://achyuthvarma.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_achyuth/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/achyuth-varma-penmetcha-795510ba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
@@ -125,7 +132,7 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 - Numpy
 - Pandas
 
-## Professional Certifications
+<!-- ## Professional Certifications
 
 <p align="left">
 <a href="https://www.credly.com/badges/e7e1be5e-56b8-486a-a24f-b430f0ecc19a/linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/AWS_CP.png" width="150"  /></a><a href="https://www.credly.com/badges/73cf3824-c661-4176-8b82-ac234db8785e/linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/AWS_SAA.png" width="150"  /></a><a href="https://www.credly.com/badges/7869c41a-ccd3-45b2-813a-42d8825868b8/linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/AWS_DA.png" width="150"  /></a><a href="https://learn.microsoft.com/en-us/users/achyuthvarma-8003/credentials/494a7e5aa877334e?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noreferrer"><img src="./certifications/Azure_Fundamentals.png" width="150"  /></a><a href="https://www.credly.com/badges/0b6d6317-9a82-46c6-89ed-9fcc7cec69ef?source=linked_in_profile" target="_blank" rel="noreferrer"><img src="./certifications/Google_UX.png" width="150"  /></a>
@@ -133,7 +140,7 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 </p>
 
 <p></p>
-</br>
+</br> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" align='right' width="100"
  />
