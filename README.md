@@ -1,9 +1,18 @@
-<h2> Hi 👋, I'm Achyuth </h2>
+<!-- <h2> Hi 👋, I'm Achyuth </h2> -->
+
+# Hi 👋, I'm Achyuth
+
 <!-- <img align='right' src="https://media1.tenor.com/m/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif" width="300"  /> -->
 
-<img align='right' src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="300" />
+<!-- <img align='right' src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="300" /> -->
 
-<p><em>Full Stack Developer</p></em>
+<!-- <img src = "https://giphy.com/embed/STx3VQPPCgvbzIKlw4" /> -->
+
+<img src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif" alt="drawing" width="1080"/>
+
+<!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/STx3VQPPCgvbzIKlw4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
+
+## Full-Stack Developer
 
 Currently pursuing MS in Information Systems (Computer Software Engineering) at Northeastern University, Boston. Worked as a frontend engineer at Capgemini, Hyderabad
 
@@ -50,6 +59,8 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 <!-- <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
+
+<img  src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif" alt="drawing" />
 
 ## Projects
 
