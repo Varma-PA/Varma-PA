@@ -90,7 +90,7 @@ Currently pursuing MS in Information Systems (Computer Software Engineering) at 
 
 # Frameworks and Libraries
 
-<img align="right" src="./gifs/Man_With_Laptop.gif" width="300" />
+<img align="right" src="./gifs/Man_With_Laptop.gif" width="400" />
 
 ### Backend
 
